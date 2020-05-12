@@ -19,3 +19,6 @@ Linear discriminant analysis per day (folder) of DR3 mice. Analysis considered c
 
 ## EN-regression
 Elastic net (and lasso comparison) per day (10-52) of all cell types for predicting class assignment of mice. Waterfall plots included, along with cross validation summary plotting.
+
+## Correlation-analysis
+Cluster frequency to clinical measure correlation analysis with module detection, heatmap generation, and t-SNE creation. T-sne plots included that map elastic net clusters to t-SNE plot.
