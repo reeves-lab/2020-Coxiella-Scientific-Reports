@@ -1,5 +1,5 @@
 # SpadevizR-analysis
-Includes scripts for SpadevizR/cluster matching analysis of DR3 mice days 10-51. 
+Includes scripts for SpadevizR/cluster matching analysis of DR3 mice days 10-52. 
 
 ## Included Scripts within folders:
 1) Parallel coordinate plot generation per cluster
