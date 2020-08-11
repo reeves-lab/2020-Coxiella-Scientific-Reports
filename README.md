@@ -1,6 +1,6 @@
 # Qvax-Mouse-Scientific-Reports
 Analysis scripts for "Novel multiparameter correlates of Coxiella burnetii infection and vaccination identified by longitudinal deep immune profiling."  
-DOI : 10.1038/s41598-020-69327-x
+https://doi.org/10.1038/s41598-020-69327-x https://www.nature.com/articles/s41598-020-69327-x
 
 ## SpadevizR-analysis
 Includes scripts for SpadevizR/cluster matching analysis of DR3 mice days 10-52. 
